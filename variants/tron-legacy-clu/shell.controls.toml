@@ -1,0 +1,28 @@
+[controls]
+# Idle chrome stays dim; hover, focus and selection light up orange
+normal-color        = "#f5dcc4"
+normal-fill-alpha   = 0.03
+normal-border       = "#df740c"
+normal-border-width = 1
+normal-border-alpha = 0.35
+
+hover-cursor-color        = "#ff9a1f"
+hover-cursor-fill-alpha   = 0.10
+hover-cursor-border       = "#ff9a1f"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.70
+
+focus-color        = "#ff9a1f"
+focus-fill-alpha   = 0.10
+focus-border       = "#ff9a1f"
+focus-border-width = 1
+focus-border-alpha = 0.70
+
+selected-color        = "#fff4e8"
+selected-fill-alpha   = 0.16
+selected-border       = "#ff9a1f"
+selected-border-width = 1
+selected-border-alpha = 1.0
+
+pressed-fill-alpha   = 0.26
+selection-fill-alpha = 0.35

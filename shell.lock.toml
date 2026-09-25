@@ -1,0 +1,13 @@
+[lock]
+# Cyan while idle, full light-cycle gradient while typing, CLU orange on failure
+background       = "#03060a"
+background-alpha = 0.8
+text             = "#e6ffff"
+placeholder      = "#4a7a90"
+text-error       = "#df740c"
+border           = "#6fc3df"
+border-active    = "hyprland.active-border"
+border-error     = "#df740c"
+border-alpha     = 1.0
+selection        = "#00e5ff"
+selection-alpha  = 0.45

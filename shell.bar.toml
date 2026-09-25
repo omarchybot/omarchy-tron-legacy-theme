@@ -1,0 +1,9 @@
+[bar]
+# Semi-transparent grid black; alerts glow CLU orange
+background       = "#05090f"
+background-alpha = 0.82
+text             = "#bfeaf5"
+active           = "#df740c"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28

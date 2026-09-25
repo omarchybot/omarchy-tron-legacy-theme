@@ -1,0 +1,35 @@
+# Tron Legacy — deep grid black, program cyan, CLU orange
+mode = "dark"
+
+accent = "#6fc3df"
+selection = "#12314a"
+muted = "#335c78"
+
+background = "#05090f"
+dark_background = "#03060a"
+darker_background = "#010305"
+lighter_background = "#0c1824"
+
+foreground = "#bfeaf5"
+dark_foreground = "#4a7a90"
+light_foreground = "#d6f6ff"
+bright_foreground = "#e6ffff"
+
+hyprland_active_border = "rgba(00e5ffee) rgba(6fc3dfee) 45deg"
+hyprland_inactive_border = "rgba(24425aaa)"
+
+red = "#ff4f3a"
+yellow = "#ffe64d"
+orange = "#df740c"
+green = "#4dffc3"
+cyan = "#6fc3df"
+blue = "#1f8fff"
+magenta = "#8a9cff"
+brown = "#7a3e0a"
+
+bright_red = "#ff7b66"
+bright_yellow = "#fff28a"
+bright_green = "#8affd8"
+bright_cyan = "#00e5ff"
+bright_blue = "#66b3ff"
+bright_magenta = "#b3c1ff"

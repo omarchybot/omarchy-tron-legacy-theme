@@ -1,0 +1,9 @@
+[bar]
+# Semi-transparent warm black; alerts glow program cyan
+background       = "#0b0604"
+background-alpha = 0.82
+text             = "#f5dcc4"
+active           = "#6fc3df"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28

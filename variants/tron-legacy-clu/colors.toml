@@ -1,0 +1,35 @@
+# Tron Legacy: CLU — warm grid black, CLU orange, program cyan as the alert
+mode = "dark"
+
+accent = "#df740c"
+selection = "#4a2410"
+muted = "#7a4a2c"
+
+background = "#0b0604"
+dark_background = "#070403"
+darker_background = "#030201"
+lighter_background = "#1f120a"
+
+foreground = "#f5dcc4"
+dark_foreground = "#9a6a48"
+light_foreground = "#ffe8d6"
+bright_foreground = "#fff4e8"
+
+hyprland_active_border = "rgba(ff9a1fee) rgba(df740cee) 45deg"
+hyprland_inactive_border = "rgba(5a3620aa)"
+
+red = "#ff4f3a"
+yellow = "#ffe64d"
+orange = "#6fc3df"
+green = "#9be36b"
+cyan = "#df740c"
+blue = "#ff5a1f"
+magenta = "#8a9cff"
+brown = "#7a3e0a"
+
+bright_red = "#ff7b66"
+bright_yellow = "#fff28a"
+bright_green = "#c2f59a"
+bright_cyan = "#ff9a1f"
+bright_blue = "#ffb347"
+bright_magenta = "#b3c1ff"
